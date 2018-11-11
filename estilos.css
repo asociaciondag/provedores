@@ -1,0 +1,47 @@
+body {
+    font-family: -apple-system, system-ui, sans-serif;
+    line-height: 1.4em;
+    color: #333;
+    margin: 0;
+}
+a {
+    text-decoration: none;
+    color: blue;
+}
+a:hover {
+    text-decoration: underline;
+}
+.filters {
+    padding: 2em;
+    position: sticky;
+    top: 0;
+    background: white;
+    border-bottom: 2px solid;
+}
+main {
+    margin: 2em;
+}
+.providers {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(16em, 1fr));
+    grid-column-gap: 2em;
+    grid-row-gap: 4em;
+}
+
+.provider header {
+    margin-bottom: 1em;
+}
+.provider-title {
+    font-size: 1.4em;
+    margin: 0 0 .3em 0;
+}
+.provider p {
+    margin: 0;
+    font-size: .85em;
+}
+.provider-category {
+    font-weight: normal;
+}
+.footer {
+    margin: 2em;
+}
