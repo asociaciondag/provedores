@@ -50,7 +50,7 @@ fetchData(csv).then(data => {
             element.innerHTML += `<p>Email: <a class="provider-email" href="mailto:${provider.email}">${provider.email}</a></p>`;
         }
         if (provider.web) {
-            element.innerHTML += `<p>Páxina web: <a class="provider-web" href="${provider.web}">${provider.web}</a></p>`;
+            element.innerHTML += `<p>Web: <a class="provider-web" href="${provider.web}">${provider.web}</a></p>`;
         }
         provider.element = element;
         results.append(element);

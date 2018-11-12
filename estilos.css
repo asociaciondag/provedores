@@ -1,8 +1,44 @@
+/* Isaac Book */
+@font-face {
+	font-family: 'Isaac';
+	src: url("./fonts/IsaacBook.woff") format('woff');
+	font-weight: 400;
+	font-style: normal;
+}
+
+/* Isaac Book Italic */
+@font-face {
+	font-family: 'Isaac';
+	src: url("./fonts/IsaacBookItalic.woff") format('woff');
+	font-weight: 400;
+	font-style: italic;
+}
+
+/* Isaac Bold */
+@font-face {
+	font-family: 'Isaac';
+	src: url("./fonts/IsaacBold.woff") format('woff');
+	font-weight: 700;
+	font-style: normal;
+}
+
+/* Isaac Bold Italic */
+@font-face {
+	font-family: 'Isaac';
+	src: url("./fonts/IsaacBoldItalic.woff") format('woff');
+	font-weight: 700;
+	font-style: italic;
+}
+
+
 body {
-    font-family: -apple-system, system-ui, sans-serif;
-    line-height: 1.4em;
+    --light-gray: #f6f6f6;
+
+    font-family: Isaac, sans-serif;
+    line-height: 1.4;
     color: #333;
     margin: 0;
+    background: var(--light-gray);
 }
 a {
     text-decoration: none;
@@ -11,12 +47,36 @@ a {
 a:hover {
     text-decoration: underline;
 }
-.filters {
-    padding: 2em;
+
+select {
+    font-family: inherit;
+    padding: .5em;
+    background: var(--light-gray);
+    color: inherit;
+    font-size: inherit;
+    border: solid 1px #ddd;
+    font-weight: bold;
+    margin: 0 .5em 0 0;
+    appearance: none;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+}
+.header {
+    padding: .5em 2em;
     position: sticky;
     top: 0;
     background: white;
-    border-bottom: 2px solid;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 6em;
+    box-shadow: 0 0 2px rgba(0, 0, 0, .4);
+    box-sizing: border-box;
+}
+.header h1 {
+    font-size: 1.6em;
+    line-height: 1;
+    margin: 0;
 }
 main {
     margin: 2em;
@@ -37,11 +97,34 @@ main {
 }
 .provider p {
     margin: 0;
-    font-size: .85em;
+    font-size: .9em;
 }
 .provider-category {
     font-weight: normal;
 }
 .footer {
-    margin: 2em;
+    margin: 6em 2em 2em;
+    display: flex;
+    justify-content: center;
+    font-size: .9em;
+    line-height: 1.2;
+    align-items: center;
+}
+.footer a {
+    color: inherit;
+}
+.footer-dag {
+    width: 100px;
+    margin-right: 50px;
+}
+.footer-dag svg {
+    display: block;
+    margin-top: .3em;
+}
+.footer-license {
+    max-width: 400px;
+}
+.footer-license img {
+    display: block;
+    margin-bottom: .3em;
 }
