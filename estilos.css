@@ -33,6 +33,7 @@
 
 body {
     --light-gray: #f6f6f6;
+    --link: #003aff;
 
     font-family: Isaac, sans-serif;
     line-height: 1.4;
@@ -42,10 +43,14 @@ body {
 }
 a {
     text-decoration: none;
-    color: blue;
+    color: var(--link);
 }
 a:hover {
     text-decoration: underline;
+}
+img, svg {
+    display: block;
+    margin: 1em auto;
 }
 
 select {
@@ -56,19 +61,14 @@ select {
     font-size: inherit;
     border: solid 1px #ddd;
     font-weight: bold;
-    margin: 0 .5em 0 0;
     appearance: none;
     -moz-appearance: none;
     -webkit-appearance: none;
+    margin: .5em 0
 }
 .header {
     padding: .5em 2em;
-    position: sticky;
-    top: 0;
     background: white;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
     margin-bottom: 6em;
     box-shadow: 0 0 2px rgba(0, 0, 0, .4);
     box-sizing: border-box;
@@ -76,10 +76,34 @@ select {
 .header h1 {
     font-size: 1.6em;
     line-height: 1;
-    margin: 0;
 }
-main {
+@media (min-width: 500px) {
+    .header {
+        position: sticky;
+        top: 0;
+    }
+}
+@media (max-width: 500px) {
+    .filters select {
+        width: 100%;
+    }
+}
+@media (min-width: 1000px) {
+    .header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .header h1 {
+        margin: 0 2em 0 0;
+    }
+    .filters select {
+        margin: 0;
+    }
+}
+.content {
     margin: 2em;
+    min-height: 50vh;
 }
 .providers {
     display: grid;
@@ -93,7 +117,20 @@ main {
 }
 .provider-title {
     font-size: 1.4em;
-    margin: 0 0 .3em 0;
+    line-height: 1.2;
+    margin: 0 0 .5em 0;
+}
+.provider-title a {
+    color: inherit;
+}
+.provider-title a::after {
+    content: "→";
+    color: var(--link);
+    padding-left: .3em;
+    display: inline-block;
+}
+.provider-title a:hover {
+    color: var(--link);
 }
 .provider p {
     margin: 0;
@@ -103,28 +140,14 @@ main {
     font-weight: normal;
 }
 .footer {
-    margin: 6em 2em 2em;
-    display: flex;
-    justify-content: center;
+    margin: 6em auto;
     font-size: .9em;
-    line-height: 1.2;
-    align-items: center;
+    text-align: center;
+    max-width: 400px;
 }
 .footer a {
     color: inherit;
 }
-.footer-dag {
-    width: 100px;
-    margin-right: 50px;
-}
-.footer-dag svg {
-    display: block;
-    margin-top: .3em;
-}
-.footer-license {
-    max-width: 400px;
-}
-.footer-license img {
-    display: block;
-    margin-bottom: .3em;
+.footer p {
+    margin: 2em 0;
 }

@@ -10,11 +10,14 @@ function parseCsv(text) {
         .map(line => parseLine(line.trim()))
         .slice(1)
         .map(row => {
-            const [name, cat1, cat2, council, address, phone, email, web, description] = row;
-            const value = { name, council, address, phone, email, web, description, categories: [cat1] };
+            const [name, cat1, cat2, council, address, phone, phone2, email, web, description] = row;
+            const value = { name, council, address, phones: [phone], email, web, description, categories: [cat1] };
 
             if (cat2) {
                 value.categories.push(cat2);
+            }
+            if (phone2) {
+                value.phones.push(phone2);
             }
 
             return value;

@@ -34,7 +34,11 @@ fetchData(csv).then(data => {
         element.classList.add('provider');
         element.innerHTML = `
             <header>
-                <h1 class="provider-title">${provider.name}</h1>
+                <h1 class="provider-title">${
+                    provider.web
+                    ? `<a class="provider-web" href="${provider.web}">${provider.name}</a>`
+                    : provider.name
+                }</h1>
                 <nav>
                     <strong class="provider-council">${provider.council}</strong><br>
                     ${provider.categories.map(cat => `<strong class="provider-category">${cat}</strong>`).join(', ')}
@@ -43,14 +47,16 @@ fetchData(csv).then(data => {
             <p class="provider-description">${provider.description || 'Sin descripción'}</p>
             <p class="provider-address">${provider.address}</p>
         `;
-        if (provider.phone) {
-            element.innerHTML += `<p>Teléfono: <a class="provider-phone" href="tel:${provider.phone}">${provider.phone}</a></p>`;
+        if (provider.phones) {
+            element.innerHTML += `
+                <p>Teléfono: ${
+                    provider.phones.map(phone =>
+                        `<a class="provider-phone" href="tel:${phone}">${phone}</a>`
+                    ).join(', ')
+                }</p>`;
         }
         if (provider.email) {
             element.innerHTML += `<p>Email: <a class="provider-email" href="mailto:${provider.email}">${provider.email}</a></p>`;
-        }
-        if (provider.web) {
-            element.innerHTML += `<p>Web: <a class="provider-web" href="${provider.web}">${provider.web}</a></p>`;
         }
         provider.element = element;
         results.append(element);
