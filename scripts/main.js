@@ -29,6 +29,8 @@ fetchData(csv).then(data => {
     results.classList.add('providers');
     results.innerHTML = '';
 
+    data.sort((a, b) => a.name < b.name ? -1 : 1);
+
     data.forEach(provider => {
         const element = document.createElement('article');
         element.classList.add('provider');
