@@ -32,6 +32,7 @@
 
 
 body {
+    --gray: #e6e6e6;
     --light-gray: #f6f6f6;
     --link: #003aff;
 
@@ -56,7 +57,6 @@ img, svg {
 select {
     font-family: inherit;
     padding: .5em;
-    background: var(--light-gray);
     color: inherit;
     font-size: inherit;
     border: solid 1px #ddd;
@@ -64,12 +64,18 @@ select {
     appearance: none;
     -moz-appearance: none;
     -webkit-appearance: none;
-    margin: .5em 0
+    margin: .5em 0;
+    background-color: var(--light-gray);
+    background-image: url('data:image/svg+xml;utf8,<svg width="16px" height="16px" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"><polygon fill="#003aff" points="2 4 14 4 14 5 8 11 2 5"></polygon></svg>');
+    background-repeat: no-repeat;
+    background-position: center right 8px;
+    padding-right: 32px;
+    outline: 0;
+
 }
 .header {
     padding: .5em 2em;
     background: white;
-    margin-bottom: 6em;
     box-shadow: 0 0 2px rgba(0, 0, 0, .4);
     box-sizing: border-box;
 }
@@ -81,6 +87,17 @@ select {
     .header {
         position: sticky;
         top: 0;
+    }
+    .filters {
+        white-space: nowrap;
+    }
+    .filters select:first-child {
+        border-top-right-radius: 0;
+        border-bottom-right-radius: 0;
+    }
+    .filters select:last-child {
+        border-top-left-radius: 0;
+        border-bottom-left-radius: 0;
     }
 }
 @media (max-width: 500px) {
@@ -138,6 +155,18 @@ select {
 }
 .provider-category {
     font-weight: normal;
+}
+.designers {
+    padding: .5em 2em;
+    font-size: .9em;
+    margin-top: 2em;
+    margin-bottom: 4em;
+}
+.designers p {
+    background: var(--gray);
+    padding: .5em 1em;
+    display: inline-block;
+    border-radius: 6px;
 }
 .footer {
     margin: 6em auto;
