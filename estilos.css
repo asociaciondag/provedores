@@ -29,6 +29,11 @@
 	font-weight: 700;
 	font-style: italic;
 }
+@font-face {
+	font-family: 'Isaac Display';
+	src: url("./fonts/IsaacDisplayBold.woff") format('woff');
+	font-weight: 700;
+}
 
 
 body {
@@ -66,23 +71,41 @@ select {
     -webkit-appearance: none;
     margin: .5em 0;
     background-color: var(--light-gray);
-    background-image: url('data:image/svg+xml;utf8,<svg width="16px" height="16px" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"><polygon fill="#003aff" points="2 4 14 4 14 5 8 11 2 5"></polygon></svg>');
+    background-image: url('data:image/svg+xml;utf8,<svg width="16px" height="16px" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"><polygon fill="%23003aff" points="2 4 14 4 14 5 8 11 2 5"></polygon></svg>');
     background-repeat: no-repeat;
     background-position: center right 8px;
     padding-right: 32px;
     outline: 0;
-
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+select:hover {
+    background-color: var(--gray);
 }
 .header {
     padding: .5em 2em;
     background: white;
     box-shadow: 0 0 2px rgba(0, 0, 0, .4);
     box-sizing: border-box;
+    z-index: 2;
 }
 .header h1 {
     font-size: 1.6em;
     line-height: 1;
 }
+.header h1 strong {
+    font-family: 'Isaac Display';
+    font-size: 2.2rem;
+    margin-right: .5rem;
+}
+.header h1 em {
+    font-weight: normal;
+    font-style: normal;
+    font-size: 1rem;
+    display: inline-block;
+    max-width: 9em;
+}
+
 @media (min-width: 500px) {
     .header {
         position: sticky;
@@ -90,6 +113,9 @@ select {
     }
     .filters {
         white-space: nowrap;
+    }
+    .filters select {
+        max-width: 200px;
     }
     .filters select:first-child {
         border-top-right-radius: 0;
@@ -105,14 +131,14 @@ select {
         width: 100%;
     }
 }
-@media (min-width: 1000px) {
+@media (min-width: 900px) {
     .header {
         display: flex;
         justify-content: space-between;
         align-items: center;
     }
     .header h1 {
-        margin: 0 2em 0 0;
+        margin: 0 1rem 0 0;
     }
     .filters select {
         margin: 0;
@@ -166,7 +192,7 @@ select {
     background: var(--gray);
     padding: .5em 1em;
     display: inline-block;
-    border-radius: 6px;
+    border-radius: 8px;
 }
 .footer {
     margin: 6em auto;
