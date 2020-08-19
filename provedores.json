@@ -1,0 +1,782 @@
+[
+  {
+    "name": "Agencia Gráfica",
+    "categories": ["Impresión"],
+    "council": "Santiago",
+    "address": "",
+    "phones": ["981 566 065"],
+    "email": "agenciagrafica@agenciagrafica.es",
+    "web": "https://agenciagrafica.es/",
+    "description": "Impresión offset e dixital"
+  },
+  {
+    "name": "Alberto Guitián",
+    "categories": ["Ilustración"],
+    "council": "A Coruña",
+    "address": "",
+    "phones": ["609 029 062"],
+    "email": "albertoguitian@gmail.com",
+    "web": "http://www.albertoguitian.com/",
+    "description": "Ilustrador e autor de cómic"
+  },
+  {
+    "name": "Alva Gráfica",
+    "categories": ["Impresión"],
+    "council": "A Coruña",
+    "address": "",
+    "phones": ["981 28 20 22"],
+    "email": "presupuestos@alvagrafica.es",
+    "web": "http://www.alvagrafica.es",
+    "description": "Impresión offset e dixital"
+  },
+  {
+    "name": "Andrea Rodríguez",
+    "categories": ["Vídeo / Fotografía"],
+    "council": "A Coruña",
+    "address": "",
+    "phones": ["610 622 032"],
+    "email": "info@andrearodriguez.es",
+    "web": "http://www.andrearodriguez.es",
+    "description": "Fotografía"
+  },
+  {
+    "name": "Anduriña",
+    "categories": ["Impresión"],
+    "council": "Pontevedra",
+    "address": "",
+    "phones": ["986 77 80 11"],
+    "email": "comercial@andurina.com",
+    "web": "http://www.andurina.com",
+    "description": "Impresión offset e dixital"
+  },
+  {
+    "name": "Anta",
+    "categories": ["Marcaxe e rotulación"],
+    "council": "Pontevedra",
+    "address": "",
+    "phones": ["618 964 975"],
+    "email": "enrique@impresionanta.com",
+    "web": "http://www.impresionanta.com",
+    "description": "Producións e instalacións publicitarias"
+  },
+  {
+    "name": "Arduma",
+    "categories": ["Marcaxe e rotulación"],
+    "council": "A Coruña",
+    "address": "",
+    "phones": ["981 13 04 57"],
+    "email": "admin1@arduma.com",
+    "web": "http://www.arduma.com",
+    "description": "Rotulación. Traballos en metacritalo"
+  },
+  {
+    "name": "Axeitos",
+    "categories": ["Impresión", "Marcaxe e rotulación"],
+    "council": "Santiago",
+    "address": "Rúa das Palmeiras 96-A2 Milladoiro",
+    "phones": ["881 975 838"],
+    "email": "info@axeitos.com",
+    "web": "https://www.axeitos.com/",
+    "description": "Impresión e rotulación para espazos e eventos"
+  },
+  {
+    "name": "Bran Serigrafic",
+    "categories": ["Serigrafía", "Merchandising"],
+    "council": "A Coruña",
+    "address": "",
+    "phones": ["981 663 499"],
+    "email": "info@branserigrafic.com",
+    "web": "http://www.branserigrafic.com",
+    "description": "Serigrafía téxtil e merchandising"
+  },
+  {
+    "name": "Carpintería Angel",
+    "categories": ["Carpintaría"],
+    "council": "A Coruña",
+    "address": "",
+    "phones": ["607 836 677"],
+    "email": "carpinteria.angel@gmail.com",
+    "web": "",
+    "description": "Servizos de carpintaría."
+  },
+  {
+    "name": "CdeC",
+    "categories": ["Impresión", "Marcaxe e rotulación"],
+    "council": "Pontevedra",
+    "address": "",
+    "phones": ["986 21 32 53", "677 46 42 95"],
+    "email": "c.calo@grupo-cdec.com",
+    "web": "http://www.grupo-cdec.com",
+    "description": "Impresión dixital en gran formato"
+  },
+  {
+    "name": "Copias de autor",
+    "categories": ["Vídeo / Fotografía"],
+    "council": "Vigo",
+    "address": "Rúa Caramuxo, 3a, 36213 Vigo",
+    "phones": ["672 38 48 22"],
+    "email": "",
+    "web": "http://www.copiasdeautor.com/",
+    "description": "Edición, impresión e produción de proxectos fotográficos"
+  },
+  {
+    "name": "Copynino",
+    "categories": ["Impresión"],
+    "council": "Santiago",
+    "address": "Avda. Rosalía de Castro 58",
+    "phones": ["981 590 302"],
+    "email": "presupuestos@copynino.com",
+    "web": "http://www.copynino.com/",
+    "description": "Impresión dixital (imprime en formato 35x65 cm)"
+  },
+  {
+    "name": "Coreti",
+    "categories": ["Impresión"],
+    "council": "A Coruña",
+    "address": "Polígono Bergondo, parcela B7",
+    "phones": ["981 795 622"],
+    "email": "gestion@coreti.com",
+    "web": "http://www.coreti.com",
+    "description": "Etiquetado"
+  },
+  {
+    "name": "Darío Fernández Ignacio Vídeo",
+    "categories": ["Vídeo / Fotografía"],
+    "council": "A Coruña",
+    "address": "",
+    "phones": ["657 674 326"],
+    "email": "dariovideo@gmail.com",
+    "web": "",
+    "description": "Vídeo. Montaxe."
+  },
+  {
+    "name": "DigitalRing",
+    "categories": ["Impresión", "Marcaxe e rotulación"],
+    "council": "A Coruña",
+    "address": "C/ Cortiñán 1, nave 1.3. Bergondo",
+    "phones": ["981 784 818"],
+    "email": "comercial@digitalring.es",
+    "web": "http://digitalring.es/",
+    "description": "Impresión directa sobre materiais ríxidos como madeira"
+  },
+  {
+    "name": "El Taller Impresiones Serigráficas",
+    "categories": ["Serigrafía", "Impresión"],
+    "council": "Pontevedra",
+    "address": "C/ Iglesia Nº 31 - Raxó (Poio)",
+    "phones": ["986 871 298"],
+    "email": "info@serigrafiaeltaller.com",
+    "web": "https://serigrafiaeltaller.com",
+    "description": "Serigrafía téxtil, plana, tampografía, estampado, transfer"
+  },
+  {
+    "name": "Francisco Javier Martínez Fernández",
+    "categories": ["Marketing dixital"],
+    "council": "Pontevedra",
+    "address": "Avda. das Corvaceiras 48 entresuelo 36001 Pontevedra",
+    "phones": ["886 204 137"],
+    "email": "info@innovacionagil.com",
+    "web": "https://innovacionagil.com/",
+    "description": "Deseño e marketing dixital"
+  },
+  {
+    "name": "Gadepu",
+    "categories": ["Serigrafía", "Merchandising"],
+    "council": "Pontevedra",
+    "address": "Roque, 29, Carragoso, 36500, Lalín (Pontevedra)",
+    "phones": ["986 784 758"],
+    "email": "gadepu@gmail.com",
+    "web": "http://gadepu.es",
+    "description": "Serigrafía, produtos de Makito e outros similares. Recollen traballos en Santiago"
+  },
+  {
+    "name": "Giovanna Lopalco",
+    "categories": ["Ilustración", "Animación"],
+    "council": "A Coruña",
+    "address": "",
+    "phones": [],
+    "email": "giovannalopalcoo@gmail.com",
+    "web": "http://www.giovannalopalco.it",
+    "description": "Ilustración e animación"
+  },
+  {
+    "name": "Globalgrafic",
+    "categories": ["Marcaxe e rotulación"],
+    "council": "A Coruña",
+    "address": "",
+    "phones": ["981 64 70 93"],
+    "email": "m.varela@globalgrafic.es",
+    "web": "http://www.globalgrafic.es",
+    "description": "Impresión gran formato"
+  },
+  {
+    "name": "Gráficas Brial",
+    "categories": ["Impresión"],
+    "council": "A Coruña",
+    "address": "",
+    "phones": ["981 23 55 08"],
+    "email": "gbrial@mundo-r.com",
+    "web": "",
+    "description": "Impresión offset e dixital"
+  },
+  {
+    "name": "Gráficas Mera",
+    "categories": ["Impresión"],
+    "council": "A Coruña",
+    "address": "",
+    "phones": ["981 27 11 26"],
+    "email": "ma.vilas@graficasmera.com",
+    "web": "http://www.graficasmera.com",
+    "description": "Impresión offset e dixital"
+  },
+  {
+    "name": "Gráficas Ocero",
+    "categories": ["Impresión"],
+    "council": "A Coruña",
+    "address": "",
+    "phones": ["981 623 506"],
+    "email": "ocero@graficasocero.com",
+    "web": "http://www.graficasocero.com",
+    "description": "Impresión offset e dixital"
+  },
+  {
+    "name": "Héctor Francesch",
+    "categories": ["Serigrafía"],
+    "council": "A Coruña",
+    "address": "Francisco Rodríguez Otero, 7 sótano, 15011, A Coruña",
+    "phones": ["627 574 674"],
+    "email": "estudiofrancesch@gmail.com",
+    "web": "http://www.hectorfrancesch.com",
+    "description": "Serigrafía en estudio"
+  },
+  {
+    "name": "Imgrafor",
+    "categories": ["Impresión"],
+    "council": "Ourense",
+    "address": "Parque Tec. Galicia parcela 4E",
+    "phones": ["988 383 728"],
+    "email": "jalvarez@imgrafor.com",
+    "web": "http://www.imgrafor.com",
+    "description": "Impresión offset e estuchados"
+  },
+  {
+    "name": "Iria Fafián",
+    "categories": ["Ilustración"],
+    "council": "A Coruña",
+    "address": "",
+    "phones": ["650 843 664"],
+    "email": "cuentodenadas@gmail.com",
+    "web": "http://www.iriafafian.com",
+    "description": "Ilustración"
+  },
+  {
+    "name": "Jacobo Gayo (GF Studio)",
+    "categories": ["Vídeo / Fotografía"],
+    "council": "Pontevedra",
+    "address": "",
+    "phones": ["629 892 175", "986 310 195"],
+    "email": "jacobo@gf-studio.es",
+    "web": "http://www.gf-studio.es",
+    "description": "Produción audiovisual e fotografía"
+  },
+  {
+    "name": "Jano Viñuela",
+    "categories": ["Ilustración"],
+    "council": "A Coruña",
+    "address": "",
+    "phones": ["666 931 793"],
+    "email": "janocho@gmail.com",
+    "web": "http://www.janoilustra.com",
+    "description": ""
+  },
+  {
+    "name": "Jesús Caballero Varela",
+    "categories": ["Vídeo / Fotografía"],
+    "council": "A Coruña",
+    "address": "",
+    "phones": ["682 173 108"],
+    "email": "jvc@jesuscaballerovarela.com",
+    "web": "http://www.jesuscaballerovarela.com",
+    "description": "Fotografía"
+  },
+  {
+    "name": "Josman",
+    "categories": ["Impresión"],
+    "council": "A Coruña",
+    "address": "",
+    "phones": ["981 24 69 19"],
+    "email": "josman@galicia.com",
+    "web": "",
+    "description": "Impresión offset e dixital"
+  },
+  {
+    "name": "Lau Creaciones",
+    "categories": ["Impresión"],
+    "council": "Santiago",
+    "address": "Ciudad del Transporte 74-76 Pol.",
+    "phones": ["981 886 745"],
+    "email": "info@laucreaciones.com",
+    "web": "http://laucreaciones.com/",
+    "description": "Rotulación e impresión gran formato"
+  },
+  {
+    "name": "Legatoria",
+    "categories": ["Encadernación"],
+    "council": "A Coruña",
+    "address": "",
+    "phones": ["981 64 91 84"],
+    "email": "legatoria@legatoria.es",
+    "web": "http://www.legatoria.es",
+    "description": "Pregado, cosido, manipulado, estampación e encadernación"
+  },
+  {
+    "name": "Lugami",
+    "categories": ["Impresión"],
+    "council": "A Coruña",
+    "address": "Lg Infesta 96. Betanzos",
+    "phones": ["981 77 41 71"],
+    "email": "lugami@lugami.com",
+    "web": "http://www.lugami.com",
+    "description": "Impresión offset e dixital"
+  },
+  {
+    "name": "Luis Díaz Díaz",
+    "categories": ["Vídeo / Fotografía"],
+    "council": "A Coruña",
+    "address": "",
+    "phones": ["627 421 690"],
+    "email": "hola@luisdiaz.com",
+    "web": "",
+    "description": "Fotografía. Fotografía de espazos. Vídeo"
+  },
+  {
+    "name": "Lumigal",
+    "categories": ["Marcaxe e rotulación"],
+    "council": "Santiago",
+    "address": "Via Isaac Peral, 2",
+    "phones": ["981 573 766"],
+    "email": "info@lumigal.com",
+    "web": "http://www.lumigal.com",
+    "description": "Rotulación e impresión gran formato"
+  },
+  {
+    "name": "Marcación Infante",
+    "categories": ["Marcaxe e rotulación"],
+    "council": "A Coruña",
+    "address": "",
+    "phones": ["981 13 20 77", "652 952 124"],
+    "email": "pedidos@marcacioninfante.com",
+    "web": "http://www.marcacioninfante.com",
+    "description": "Selos, lacres, recambios. Marcación láser"
+  },
+  {
+    "name": "Marcos Cenamor Fandiño",
+    "categories": ["Vídeo / Fotografía"],
+    "council": "A Coruña",
+    "address": "",
+    "phones": ["649 96 74 41"],
+    "email": "marcoscenamor@gmail.com",
+    "web": "",
+    "description": "Video. Montaxe"
+  },
+  {
+    "name": "Mastil",
+    "categories": ["Marcaxe e rotulación"],
+    "council": "A Coruña",
+    "address": "",
+    "phones": ["698 150 110"],
+    "email": "m.varela@mastil.es",
+    "web": "http://www.mastil.es",
+    "description": "Rotulación"
+  },
+  {
+    "name": "Mudejar",
+    "categories": ["Encadernación"],
+    "council": "A Coruña",
+    "address": "",
+    "phones": ["981 29 01 01"],
+    "email": "",
+    "web": "",
+    "description": ""
+  },
+  {
+    "name": "Nando Iglesias Fotografía",
+    "categories": ["Vídeo / Fotografía"],
+    "council": "Vigo",
+    "address": "Rúa Urzáiz, 8, 1º, 36201, Vigo",
+    "phones": ["666 552 384"],
+    "email": "info@nandoiglesias.com",
+    "web": "https://nandoiglesias.com/",
+    "description": "Fotografía"
+  },
+  {
+    "name": "Nuria Díaz",
+    "categories": ["Ilustración"],
+    "council": "Santiago",
+    "address": "",
+    "phones": [],
+    "email": "info@nuriadiaz.es",
+    "web": "https://www.nuriadiaz.es/",
+    "description": "Ilustración naif"
+  },
+  {
+    "name": "Pegadas",
+    "categories": ["Marcaxe e rotulación", "Merchandising"],
+    "council": "A Coruña",
+    "address": "",
+    "phones": ["981 90 71 90"],
+    "email": "attcliente@pegadas.es",
+    "web": "http://www.pegadas.es",
+    "description": "Impresión gran formato. Rotulación"
+  },
+  {
+    "name": "Pilar Marcó",
+    "categories": ["Ilustración"],
+    "council": "A Coruña",
+    "address": "",
+    "phones": ["659 03 99 95"],
+    "email": "pilarmarcopadin@gmail.es",
+    "web": "http://pilarmarco.es/",
+    "description": ""
+  },
+  {
+    "name": "Pino Encuadernaciones",
+    "categories": ["Encadernación"],
+    "council": "Vigo",
+    "address": "Rúa Romil, 75",
+    "phones": ["986 251 700"],
+    "email": "pino@pinoencuadernaciones.com",
+    "web": "",
+    "description": "Pregado, cosido, manipulado, estampación e encadernación. Estoxos. Restauración"
+  },
+  {
+    "name": "Prelo",
+    "categories": ["Impresión"],
+    "council": "Lugo",
+    "address": "Ronda Muralla, 34 - 35",
+    "phones": ["982 28 03 59"],
+    "email": "",
+    "web": "http://www.prelo.es/",
+    "description": "Impresión dixital en pequeno e gran formato."
+  },
+  {
+    "name": "Promología",
+    "categories": ["Merchandising"],
+    "council": "Santiago",
+    "address": "Rúa M, Ángeles Gándara. Pol. Tambre",
+    "phones": ["981 937 777"],
+    "email": "info@promologia.com",
+    "web": "https://www.promologia.com/",
+    "description": "Serigrafía textil e merchandising"
+  },
+  {
+    "name": "Selfpackaging",
+    "categories": [],
+    "council": "Fóra de Galicia",
+    "address": "Nápoles 237- Barcelona",
+    "phones": ["931 210 080"],
+    "email": "ayuda@selfpackaging.com",
+    "web": "http://www.selfpackaging.es",
+    "description": "Estuchado"
+  },
+  {
+    "name": "Sergio Pernas Velo",
+    "categories": ["Programación web / móbil"],
+    "council": "A Coruña",
+    "address": "",
+    "phones": ["670 634 249"],
+    "email": "sergiopernasvelo@gmail.com",
+    "web": "",
+    "description": "Front-end developer"
+  },
+  {
+    "name": "Serilua",
+    "categories": ["Merchandising", "Marcaxe e rotulación"],
+    "council": "Santiago",
+    "address": "Avda de Lugo, 187",
+    "phones": ["981 57 65 32"],
+    "email": "serilua@serilua.com",
+    "web": "http://www.serilua.com",
+    "description": "Merchandising. Marcaxe e rotulación"
+  },
+  {
+    "name": "Servicios Gráficos",
+    "categories": ["Impresión", "Serigrafía"],
+    "council": "A Coruña",
+    "address": "",
+    "phones": ["981 640 438"],
+    "email": "jaime@sgarteixo.com",
+    "web": "http://www.sgarteixo.com",
+    "description": "Impresión. Serigrafía"
+  },
+  {
+    "name": "Sistemius",
+    "categories": ["Servizos xurídicos"],
+    "council": "Santiago",
+    "address": "Avenida Rosalía Castro, 53, bajo 3",
+    "phones": ["654 585 144"],
+    "email": "dag@sistemius.com",
+    "web": "https://www.sistemius.com/",
+    "description": "Despacho de avogados especializados en protección de datos, propiedade intelectual, etc."
+  },
+  {
+    "name": "Tórculo",
+    "categories": ["Impresión"],
+    "council": "A Coruña",
+    "address": "",
+    "phones": ["981 27 48 20"],
+    "email": "manuel@torculo.es",
+    "web": "http://www.torculo.es",
+    "description": "Impresión offset e dixital"
+  },
+  {
+    "name": "Vmar",
+    "categories": ["Marcaxe e rotulación"],
+    "council": "A Coruña",
+    "address": "",
+    "phones": ["981 24 94 99"],
+    "email": "vmar@vmar.es",
+    "web": "http://www.vmar.es",
+    "description": "Impresión dixital en pequeno e gran formato. Rotulación. Campañas"
+  },
+  {
+    "name": "Zlick",
+    "categories": ["Impresión"],
+    "council": "A Coruña",
+    "address": "Porta de Aires 15 B 15001 Cidade Vella A Coruña",
+    "phones": ["881 897 795"],
+    "email": "info@zlick.net",
+    "web": "http://zlick.net",
+    "description": "Impresión artística (Giclée) laboratorio fotográfico e encadernación"
+  },
+  {
+    "name": "Cor Dixital",
+    "categories": ["Impresión"],
+    "council": "A Coruña",
+    "address": "Calle 2, Parcela F11–1 Polígono de Pocomaco",
+    "phones": ["881 915 175"],
+    "email": "oficina@cordixital.com",
+    "web": "",
+    "description": "Impresión dixital en pequeno e gran formato. Rotulación"
+  },
+  {
+    "name": "Mundo",
+    "categories": ["Impresión"],
+    "council": "A Coruña",
+    "address": "Rúa Bell 2, Polígono Industrial Espíritu Santo, Cambre",
+    "phones": ["881 649 900"],
+    "email": "mundo@imprentamundo.com",
+    "web": "http://www.imprentamundo.com",
+    "description": "Impresión offset e dixital"
+  },
+  {
+    "name": "Unicopia",
+    "categories": ["Impresión"],
+    "council": "Lugo",
+    "address": "Avda. de Madrid, 13",
+    "phones": ["982 280 385"],
+    "email": "unicopia@unicopia.es",
+    "web": "",
+    "description": "Impresión offset e dixital"
+  },
+  {
+    "name": "Rodi Artes Gráficas",
+    "categories": ["Impresión"],
+    "council": "Ourense",
+    "address": "Seixalbo, 12. 32005 Ourense",
+    "phones": ["988 220 790"],
+    "email": "presupuestos@rodi-graf.com",
+    "web": "http://www.rodi-graf.com/",
+    "description": "Impresión offset"
+  },
+  {
+    "name": "Momo Impresión Digital",
+    "categories": ["Impresión"],
+    "council": "Vigo",
+    "address": "Alonso Ojeda 15, baixo. 36207 Vigo",
+    "phones": ["986 138 857"],
+    "email": "info@momoid.com",
+    "web": "http://www.momoid.com/",
+    "description": "Impresión dixital, gran formato e rotulación"
+  },
+  {
+    "name": "Imprime Verde",
+    "categories": ["Impresión"],
+    "council": "Vigo",
+    "address": "Rúa López de Neira, 9. 36202 Vigo",
+    "phones": ["886 142 380"],
+    "email": "hola@imprimeverde.com",
+    "web": "http://imprimeverde.com/",
+    "description": "Impresión en gran formato e fine art"
+  },
+  {
+    "name": "Azo Audiovisuales",
+    "categories": ["Vídeo / Fotografía"],
+    "council": "Vigo",
+    "address": "Urzáiz 8, 1º. 36201 Vigo",
+    "phones": ["667 23 49 34"],
+    "email": "info@azo.gal",
+    "web": "https://azo.gal/",
+    "description": "Produtora de creacións audivisuais"
+  },
+  {
+    "name": "Iberomarcas y patentes",
+    "categories": ["Servizos xurídicos"],
+    "council": "Vigo",
+    "address": "Rúa República Argentina, 27 36201 Vigo",
+    "phones": ["986 220 931"],
+    "email": "info@eurokonzern.es",
+    "web": "http://www.eurokonzern.es/",
+    "description": "Patentes e marcas"
+  },
+  {
+    "name": "Decopubli",
+    "categories": ["Marcaxe e rotulación"],
+    "council": "Moaña",
+    "address": "Av. Fragata Lealtad, 15, 36950 Moaña, Pontevedra",
+    "phones": ["986 314 286"],
+    "email": "decopubli@decopubli.com",
+    "web": "http://www.decopubli.com/",
+    "description": "Rotulación e marcaxe"
+  },
+  {
+    "name": "Celsius Pictor",
+    "categories": ["Ilustración"],
+    "council": "Ourense",
+    "address": "",
+    "phones": ["659 521 104"],
+    "email": "celsiuspictor@gmail.com",
+    "web": "http://celsiuspictor.net",
+    "description": "Ilustración / Collage"
+  },
+  {
+    "name": "Tutanpancho",
+    "categories": ["Vídeo / Fotografía"],
+    "council": "A Coruña",
+    "address": "",
+    "phones": ["698 181 698"],
+    "email": "",
+    "web": "http://tutanpancho.com",
+    "description": "Vídeo. Montaxe"
+  },
+  {
+    "name": "Octavio Mazza de Luca",
+    "categories": ["Vídeo / Fotografía"],
+    "council": "A Coruña",
+    "address": "",
+    "phones": ["649 883 182"],
+    "email": "",
+    "web": "http://www.octaviomazza.com",
+    "description": "Fotografía e vídeo comercial e publicitaria"
+  },
+  {
+    "name": "Andrés Vázquez Passfeld",
+    "categories": ["Animación", "Motion graphics"],
+    "council": "A Coruña",
+    "address": "",
+    "phones": ["630 876 096"],
+    "email": "",
+    "web": "http://andyvzqz.com",
+    "description": "Motion graphics, deseño interactivo e 3D"
+  },
+  {
+    "name": "Verve Creative Group",
+    "categories": ["Vídeo / Fotografía", "Motion graphics"],
+    "council": "Vigo",
+    "address": "Carretera Camposancos, 58 36213 Vigo",
+    "phones": ["986 229 662"],
+    "email": "info@vervecg.com",
+    "web": "http://vervecg.com/",
+    "description": ""
+  },
+  {
+    "name": "Xaime Cortizo: Fotografía e Comunicación Visual",
+    "categories": ["Vídeo / Fotografía"],
+    "council": "Santiago",
+    "address": "Hórreo 22, 3º, 15701, Santiago de Compostela",
+    "phones": ["668 801 291"],
+    "email": "info@xaimecortizo.com",
+    "web": "http://www.xaimecortizo.com/",
+    "description": "Fotografía e comunicación visual"
+  },
+  {
+    "name": "Begoña Pastoriza",
+    "categories": ["Ilustración"],
+    "council": "A Coruña",
+    "address": "",
+    "phones": [],
+    "email": "begonha@hotmail.com",
+    "web": "https://www.behance.net/BegoPastoriza",
+    "description": "Ilustración de collages"
+  },
+  {
+    "name": "Kendra",
+    "categories": ["Realidade Virtual / Aumentada"],
+    "council": "Vigo",
+    "address": "Urzáiz 145, 1º izq. 36205 Vigo",
+    "phones": ["623 182 438"],
+    "email": "contacto@kendra.es",
+    "web": "https://kendra.es/",
+    "description": "Realidade aumentada, virtual e mixta"
+  },
+  {
+    "name": "José Manuel Penín González",
+    "categories": ["Programación web / móbil"],
+    "council": "Santiago",
+    "address": "",
+    "phones": ["676 556 120"],
+    "email": "jose@penin.eu",
+    "web": "",
+    "description": "Consultoría, programación e administración. Full Stack developer"
+  },
+  {
+    "name": "Do Paraná",
+    "categories": ["Serigrafía"],
+    "council": "Santiago",
+    "address": "Rúa do Ulla 25, 15702 Santiago de Compostela",
+    "phones": ["627 436 126"],
+    "email": "info@doparana.com",
+    "web": "http://doparana.com/",
+    "description": "Obra gráfica orixinal e impresión textil. Escola-obradoiro e espazo de coworking"
+  },
+  {
+    "name": "Ramón Vaamonde",
+    "categories": ["Vídeo / Fotografía"],
+    "council": "Santiago",
+    "address": "15706 Santiago de Compostela",
+    "phones": ["661 945 715"],
+    "email": "fotografia@ramonvaamonde.com",
+    "web": "https://ramonvaamonde.com",
+    "description": ""
+  },
+  {
+    "name": "Multiplicada",
+    "categories": ["Impresión"],
+    "council": "A Coruña",
+    "address": "Arquitecto Rey Pedreira 2, baixo, 15011 A Coruña",
+    "phones": ["661 091 435"],
+    "email": "info@multiplicada.com",
+    "web": "http://www.multiplicada.com",
+    "description": "Xestión gráfica e impresión: impresión dixital, rotulación, eventos."
+  },
+  {
+    "name": "ProPrintweb",
+    "categories": ["Impresión"],
+    "council": "Online",
+    "address": "",
+    "phones": ["932 419 272"],
+    "email": "contacto@proprintweb.com",
+    "web": "https://www.proprintweb.com/",
+    "description": "Imprenta online para diseñadores. Impresión offset, digital y gran formato"
+  },
+  {
+    "name": "Berto Yáñez",
+    "categories": ["Programación web / móbil"],
+    "council": "A Coruña",
+    "address": "",
+    "phones": ["646 125 045"],
+    "email": "berto@ber.to",
+    "web": "http://ber.to/",
+    "description": "Desenvolvemento web, especialidade en frontend, interactivade e javascript"
+  }
+]
