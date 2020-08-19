@@ -2,7 +2,7 @@ const filterCategories = document.getElementById('filter-categories');
 const filterCouncils = document.getElementById('filter-councils');
 const results = document.getElementById('results');
 
-fetch('../provedores.json')
+fetch('./provedores.json')
     .then(res => res.json())
     .then(data => {
         const councils = new Set();
