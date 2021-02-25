@@ -140,14 +140,24 @@
     "description": "Etiquetado"
   },
   {
-    "name": "Darío Fernández Ignacio Vídeo",
-    "categories": ["Vídeo / Fotografía"],
+    "name": "Dani Viéitez e Iria Iglesias",
+    "categories": ["Ilustración"],
     "council": "A Coruña",
     "address": "",
-    "phones": ["657 674 326"],
-    "email": "dariovideo@gmail.com",
-    "web": "",
-    "description": "Vídeo. Montaxe."
+    "phones": [],
+    "email": "giovannalopalcoo@gmail.com",
+    "web": "http://www.giovannalopalco.it",
+    "description": "Ilustración e animación"
+  },
+  {
+    "name": "Darío Fernández Ignacio Vídeo",
+    "categories": ["Vídeo / Fotografía"],
+    "council": "Lugo",
+    "address": "Pantón",
+    "phones": ["982 166 167"],
+    "email": "info@estudiognomo.com",
+    "web": "https://danieiria.com/",
+    "description": "Ilustración"
   },
   {
     "name": "DigitalRing",
