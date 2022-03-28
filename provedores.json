@@ -757,7 +757,7 @@
     "phones": ["932 419 272"],
     "email": "contacto@proprintweb.com",
     "web": "https://www.proprintweb.com/",
-    "description": "Imprenta online para diseñadores. Impresión offset, digital y gran formato"
+    "description": "Imprenta online para profesionais do deseño. Impresión offset, digital e gran formato"
   },
   {
     "name": "Berto Yáñez",
@@ -768,5 +768,55 @@
     "email": "berto@ber.to",
     "web": "http://ber.to/",
     "description": "Desenvolvemento web, especialidade en frontend, interactivade e javascript"
+  },
+  {
+    "name": "Anzol",
+    "categories": ["Fabricación" , "Impresión 3D"],
+    "council": "Online",
+    "address": "",
+    "phones": ["644 022 054"],
+    "email": "info@anzol.eu",
+    "web": "http://anzol.eu",
+    "description": "Plataforma dixital de servizos de fabricación (corte e gravado, impresión 3D, mecanizados...) con sede en Teo"
+  },
+  {
+    "name": "Lupeon SL",
+    "categories": ["Impresión 3D"],
+    "council": "Nigrán",
+    "address": "Polígono Industrial do Molle, Nave 7A 36350 Nigrán",
+    "phones": ["986 118 131"],
+    "email": "admin@lupeon.com",
+    "web": "http://www.lupeon.com",
+    "description": "Impresión 3D de última xeración"
+  },
+  {
+    "name": "Xoia Software SL",
+    "categories": ["Realidade Virtual / Aumentada"],
+    "council": "A Coruña",
+    "address": "Rúa Real 20, 1º 15003 A Coruña",
+    "phones": ["881 925 437"],
+    "email": "informacion@xoia.es",
+    "web": "http://www.xoia.es",
+    "description": "Realidade virtual, aumentada e mixta"
+  },
+  {
+    "name": "Aceroled SL",
+    "categories": ["Marcaxe e rotulación"],
+    "council": "A Coruña",
+    "address": "Rúa Parroquia de Rois, Parcela F1, 15165 Bergondo (A Coruña)",
+    "phones": ["981 926 379"],
+    "email": "aceroled@aceroled.es",
+    "web": "http://www.aceroled.es",
+    "description": "Rotulación gran formato. Luminosos"
+  },
+  {
+    "name": "Jega Gráfica SL",
+    "categories": ["Marcaxe e rotulación"],
+    "council": "A Coruña",
+    "address": "Camiño da Igrexa 1A Tabeaio-Carral 15182 A Coruña",
+    "phones": ["981 671 475"],
+    "email": "info@jegagrafica.es",
+    "web": "http://www.jegagrafica.es",
+    "description": "Rotulación e impresión gran formato"
   }
 ]
